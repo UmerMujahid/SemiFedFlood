@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env/
+.venv/
+venv/
+
+# Colab and experiment output
+*.log
+outputs/
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
